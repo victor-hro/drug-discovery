@@ -10,8 +10,8 @@
 
 - [x] Extração e limpeza dos dados;
 - [x] Análise estatística;
-  [ ] Visualização dos dados;
-  [ ] Correlação, causalidade e relações entre genes;
+  - [ ] Visualização dos dados;
+  - [ ] Correlação, causalidade e relações entre genes;
 - [ ] Machine Learning;
 
 ### 🛠 Tools
