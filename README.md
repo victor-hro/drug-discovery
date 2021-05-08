@@ -10,8 +10,9 @@
 
 - [x] Extração e limpeza dos dados;
 - [x] Análise estatística;
-  - [ ] Visualização dos dados;
-  - [ ] Correlação, causalidade e relações entre genes e tipos celulares;
+  - [x] Visualização dos dados;
+  - [x] Correlação, causalidade e relações entre genes e tipos celulares;
+- [x] Merge e Análise de Resultados;
 - [ ] Machine Learning;
 
 ### 🛠 Tools
