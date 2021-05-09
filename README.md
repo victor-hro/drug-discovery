@@ -13,7 +13,11 @@
   - [x] Visualização dos dados;
   - [x] Correlação, causalidade e relações entre genes e tipos celulares;
 - [x] Merge e Análise de Resultados;
-- [ ] Machine Learning;
+- [x] Machine Learning;
+  - [x] Extrair dados importantes e testar modelos de machine learning;
+  - [x] Testar novos modelos e hiperparâmetros para reduzir o score do conjunto de validação;
+  - [ ] Incluir conjunto de teste;
+  - [ ] Melhorar o desempenho do modelo.
 
 ### 🛠 Tools
 
